@@ -1,0 +1,390 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "traditional",
+      "name": "big gata",
+      "price": "6000AMD",
+      "descr": "with khoriz",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 2,
+      "category": "traditional",
+      "name": "big phaklava",
+      "price": "1000AMD",
+      "descr": "with honey and nuts",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 3,
+      "category": "traditional",
+      "name": "eastern pakhlava",
+      "price": "850AMD",
+      "descr": "with honey and nuts",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 4,
+      "category": "traditional",
+      "name": "small gata",
+      "price": "800AMD",
+      "descr": "with khoriz",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 5,
+      "category": "traditional",
+      "name": "medium gata",
+      "price": "3000AMD",
+      "descr": "with khoriz",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 6,
+      "category": "traditional",
+      "name": "lokhum",
+      "price": "800AMD",
+      "descr": "with jem",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 7,
+      "category": "traditional",
+      "name": "walnut",
+      "price": "250AMD",
+      "descr": "with creme",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 8,
+      "category": "traditional",
+      "name": "yerevan pakhlava",
+      "price": "750AMD",
+      "descr": "with honey, nuts and cinnamon",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 9,
+      "category": "pastry",
+      "name": "honey cake",
+      "price": "750AMD",
+      "descr": "cream with condensed milk",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 10,
+      "category": "pastry",
+      "name": "mikado",
+      "price": "750AMD",
+      "descr": "cream with condensed milk",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 11,
+      "category": "pastry",
+      "name": "ideal",
+      "price": "750AMD",
+      "descr": "cream with condensed milk",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 12,
+      "category": "pastry",
+      "name": "kiev cake",
+      "price": "750AMD",
+      "descr": "cream with condensed milk",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 13,
+      "category": "pastry",
+      "name": "honey cake",
+      "price": "750AMD",
+      "descr": "cream with condensed milk",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 14,
+      "category": "pastry",
+      "name": "mandarin cake",
+      "price": "750AMD",
+      "descr": "with wallnut",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 15,
+      "category": "pastry",
+      "name": "prunce",
+      "price": "750AMD",
+      "descr": "with wallnut",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 16,
+      "category": "pastry",
+      "name": "cigarette pastry",
+      "price": "750AMD",
+      "descr": "with wallnut",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 17,
+      "category": "pastry",
+      "name": "truffles",
+      "price": "350AMD",
+      "descr": "with wallnut",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 18,
+      "category": "cakes",
+      "name": "banana Cake",
+      "price": "7500AMD",
+      "descr": "with fruit",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 19,
+      "category": "cakes",
+      "name": "prague cake",
+      "price": "7500AMD",
+      "descr": "with wallnut",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 20,
+      "category": "cakes",
+      "name": "caramel cake",
+      "price": "7500AMD",
+      "descr": "with wallnut",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 21,
+      "category": "cakes",
+      "name": "lemon cake",
+      "price": "7500AMD",
+      "descr": "with fruit",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 22,
+      "category": "cakes",
+      "name": "strawberry cake",
+      "price": "7500AMD",
+      "descr": "with fruit",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 23,
+      "category": "cakes",
+      "name": "pineapple cake",
+      "price": "7500AMD",
+      "descr": "with fruit",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 24,
+      "category": "pies",
+      "name": "cheese pie",
+      "price": "250AMD",
+      "descr": "with cheese",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 25,
+      "category": "pies",
+      "name": "khachapuri",
+      "price": "250AMD",
+      "descr": "with cheese",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 26,
+      "category": "pies",
+      "name": "meat pie",
+      "price": "250AMD",
+      "descr": "with meat",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 27,
+      "category": "pies",
+      "name": "potato pie",
+      "price": "250AMD",
+      "descr": "with potato",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 28,
+      "category": "breads",
+      "name": "baguette",
+      "price": "550AMD",
+      "descr": "",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 29,
+      "category": "breads",
+      "name": "bread with seeds",
+      "price": "550AMD",
+      "descr": "",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 30,
+      "category": "breads",
+      "name": "pumpernikel",
+      "price": "550AMD",
+      "descr": "",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 31,
+      "category": "croissants",
+      "name": "classic croissant",
+      "price": "750AMD",
+      "descr": "",
+      "img": "images/logo.png"
+      
+    },
+    
+
+    {
+      "id": 32,
+      "category": "croissants",
+      "name": "nutella croissant",
+      "price": "950AMD",
+      "descr": "",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 33,
+      "category": "croissants",
+      "name": "raisins cake",
+      "price": "950AMD",
+      "descr": "",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 34,
+      "category": "ice cream",
+      "name": "donatella sorbet",
+      "price": "2500AMD",
+      "descr": "",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 35,
+      "category": "ice cream",
+      "name": "mixberry sorbet",
+      "price": "2500AMD",
+      "descr": "",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 36,
+      "category": "ice cream",
+      "name": "lemon sorbet",
+      "price": "2500AMD",
+      "descr": "",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 37,
+      "category": "ice cream",
+      "name": "chocolate",
+      "price": "2500AMD",
+      "descr": "",
+      "img": "images/logo.png"
+      
+    },
+
+    {
+      "id": 38,
+      "category": "ice cream",
+      "name": "Arabic ice cream with pistachios",
+      "price": "2500AMD",
+      "descr": "",
+      "img": "images/logo.png"
+      
+    }
+
+
+    
+  ]
+  
+  
+  
+}
